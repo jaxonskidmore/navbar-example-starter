@@ -19,11 +19,12 @@ export default function Home() {
           height: 100%;
         }
         main {
-          height: 100%;
+          height: 750px;
           display: flex;
           justify-content: center;
           align-items: center;
           background: #1d3549;
+          color: #fffeee
 
         }
       `}</style>

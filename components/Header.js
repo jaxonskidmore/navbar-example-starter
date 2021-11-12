@@ -27,13 +27,13 @@ export default function Header(){
             </div>
             <style jsx>{`
                 header {
-                  color: #1d3549;
-                  background-color: white;
-                  display: flex;
-                  flex-direction: row;
-                  justify-content: space-between;
-                  align-items: center;
-                  padding: 0px 30px;
+                    color: #1d3549;
+                    background-color: white;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-between;
+                    align-items: center;
+                    padding: 0px 30px;
                 }
                 nav {
                     display: flex;
