@@ -23,6 +23,8 @@ export default function Home() {
           display: flex;
           justify-content: center;
           align-items: center;
+          background: #1d3549;
+
         }
       `}</style>
 
